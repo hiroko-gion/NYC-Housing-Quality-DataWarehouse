@@ -24,3 +24,18 @@ The primary objective is to leverage data analysis to enhance the quality and sa
    - Source: [NYC Open Data - Housing Maintenance Code Violations](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5
 )
    - Includes records of violations issued by city authorities for non-compliance with building codes, zoning regulations, and safety standards.
+
+## Technologies 
+The technologies used to build the Data Warehouse were: 
+
+- **Jupiter Notebook:**
+  - Used for coding in Python during the ETL process. Streamlined data extraction, transformation, and loading tasks.
+
+- **Python Programming Language:**
+  - Utilized for data cleaning and manipulation tasks within Jupiter Notebook.
+
+- **Google BigQuery:**
+  - Employed as the data warehouse for storing and querying cleaned datasets. Facilitated data analysis based on Key Performance Indicators (KPIs).
+
+- **Google Looker Studio:**
+  - Utilized for data visualization, enabling the creation of dashboards based on the analyzed data from BigQuery.
