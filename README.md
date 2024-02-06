@@ -92,6 +92,12 @@ Linking the table to the four dimension tables enables me to explore data from d
 The Borough, Block, Lot (BBL) number serves as a common key in the two datasets, providing a numerical identifier unique to each real property in NYC. <br>
 It acts as a common key in our two datasets, unifying them seamlessly for analysis of specific properties across the datasets.
 
+## Datasets Loaded into BigQuery
+
+Check out the datasets loaded into Google BigQuery:
+
+![BigQuery Datasets](images/bigquery_datasets_screenshot.png)
+
 ## Data Visualization
 
 <image src="images/Data Visualization.png" height=70%, width=70%>
