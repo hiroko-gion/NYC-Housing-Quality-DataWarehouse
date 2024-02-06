@@ -13,6 +13,16 @@ The primary objective is to leverage data analysis to enhance the quality and sa
 - Integrate Housing Maintenance Code Violations data to identify high-risk areas.
 - Provide insights into housing conditions and code violations across the five boroughs.
 
+## Key Performance Indicators (KPIs)
+1.  **Time Series Analysis of Housing Complaint Types:** <br>
+    Track the volume of each complaint type by month or year to detect any seasonal patterns or emerging issues.
+
+2.  **Top 10 Properties With Complaints:** <br>
+     Identify the top 10 buildings/properties that receive the highest frequency of service requests, indicating potential chronic issues.
+
+3.  **Average Time to Close A Violation Across Categories:** <br>
+     Calculate the average time when a violation is reported until it's marked as closed. This will give insight into the efficiency of the remediation process.
+     
 ## Datasets
 
 1. **311 Service Requests Dataset:**
@@ -82,6 +92,11 @@ Linking the table to the four dimension tables enables me to explore data from d
 The Borough, Block, Lot (BBL) number serves as a common key in the two datasets, providing a numerical identifier unique to each real property in NYC. <br>
 It acts as a common key in our two datasets, unifying them seamlessly for analysis of specific properties across the datasets.
 
+## Data Visualization
 
+<image src=""
 
+Check out our data visualizations created with Google Looker Studio:
+
+[Link to Data Visualization Dashboard](https://lookerstudio.google.com/u/1/reporting/a1e071f7-e8b8-4e63-bfc9-e59e77ebdedb/page/xZmjD)
 
