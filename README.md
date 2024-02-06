@@ -96,7 +96,7 @@ It acts as a common key in our two datasets, unifying them seamlessly for analys
 
 Check out the datasets loaded into Google BigQuery:
 
-![BigQuery Datasets](images/bigquery_datasets_screenshot.png)
+![BigQuery Datasets](images/BigQuery.png)
 
 ## Data Visualization
 
