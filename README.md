@@ -39,3 +39,7 @@ The technologies used to build the Data Warehouse were:
 
 - **Google Looker Studio:**
   - Utilized for data visualization, enabling the creation of dashboards based on the analyzed data from BigQuery.
+ 
+## Dimensional Model
+
+![Dimensional Model](images/Dimensional _Model.png)
