@@ -94,7 +94,7 @@ It acts as a common key in our two datasets, unifying them seamlessly for analys
 
 ## Data Visualization
 
-<image src=""
+<image src="images/Data Visualization.png" height=70%, width=70%>
 
 Check out our data visualizations created with Google Looker Studio:
 
