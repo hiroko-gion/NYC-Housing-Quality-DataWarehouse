@@ -42,6 +42,46 @@ The technologies used to build the Data Warehouse were:
  
 ## Dimensional Model
 
-![Dimensional Model](NYC-Housing-Quality-DataWarehouse/images
-/Dimensional _Model.png)
+<image src="images/Dimensional_Model.png" height=70%, width=70%>
+   
+The dimensional model for this project aims to provide a structured and organized foundation for performing various analyses intended for addressing housing concerns in NYC. The fact table (`factComplaintViolations`) serves as the central table in the star schema between the four dimension tables to consolidate information related to housing complaints and violations.
+
+Linking the table to the four dimension tables enables me to explore data from different perspectives, such as building details, complaint types, severity classifications, and other kinds of temporal aspects. Additionally, the time-related fields allow for time-series analysis, supporting the identification of patterns or trends.
+
+### Components within `factComplaintViolations`:
+
+- **factComplaintViolations_ID (PK):**
+  - Primary key (surrogate) for the fact table, ensuring a unique identifier is associated with each record.
+
+- **BBL_number (FK):**
+  - Foreign key linking to the `dimBuilding` table.
+
+- **complaint_dim_ID (FK):**
+  - Foreign key linking to the `dimComplaint` table.
+
+- **severity_dim_ID (FK):**
+  - Foreign key connecting to the `dimSeverity` table.
+
+- **date_dim_ID (FK):**
+  - Foreign key linking to the `dimDate` table.
+
+- **TimeTakenToClose:**
+  - Measures the time taken to close a violation, indicating the efficiency of the remediation process.
+
+- **TimeTakenToRespond:**
+  - Measures the time taken to respond to a service request, providing insights into the responsiveness of authorities.
+
+- **CountofComplaints_weekly:**
+  - Counts the number of complaints on a weekly basis, offering a time-based aggregation of complaint data.
+
+- **CountofViolations_weekly:**
+  - Counts the number of violations on a weekly basis, providing a time-based aggregation of violation data.
+
+### BBL Number
+
+The Borough, Block, Lot (BBL) number serves as a common key in the two datasets, providing a numerical identifier unique to each real property in NYC. <br>
+It acts as a common key in our two datasets, unifying them seamlessly for analysis of specific properties across the datasets.
+
+
+
 
