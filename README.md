@@ -43,3 +43,4 @@ The technologies used to build the Data Warehouse were:
 ## Dimensional Model
 
 ![Dimensional Model](images/Dimensional _Model.png)
+
