@@ -98,6 +98,14 @@ Check out the datasets loaded into Google BigQuery:
 
 ![BigQuery Datasets](images/BigQuery.png)
 
+## SQL Quering based on KPIs in BigQuery##
+
+1. **Time Series Analysis of Housing Complaint Types:**
+   
+3. **Top 10 Properties With Complaints:**
+4. **Average Time to Close A Violation Across Categories:**
+
+
 ## Data Visualization
 
 <image src="images/Data Visualization.png" height=70%, width=70%>
