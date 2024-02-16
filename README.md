@@ -104,5 +104,5 @@ Check out the datasets loaded into Google BigQuery:
 
 Check out our data visualizations created with Google Looker Studio:
 
-[Link to Data Visualization Dashboard](https://lookerstudio.google.com/u/1/reporting/a1e071f7-e8b8-4e63-bfc9-e59e77ebdedb/page/xZmjD)
+[Link to Data Visualization Dashboard](https://lookerstudio.google.com/u/1/reporting/e2848185-8de1-4b38-bfe7-887f2ac91520/page/xZmjD)
 
