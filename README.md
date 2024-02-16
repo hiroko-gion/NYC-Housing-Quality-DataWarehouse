@@ -100,7 +100,7 @@ Check out the datasets loaded into Google BigQuery:
 
 ## Data Visualization
 
-<image src="images/Data Visualization.png" height=70%, width=70%>
+<image src="images/Data_Visualization.png" height=70%, width=70%>
 
 Check out our data visualizations created with Google Looker Studio:
 
