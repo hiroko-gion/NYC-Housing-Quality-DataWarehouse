@@ -14,17 +14,17 @@ The primary objective is to leverage data analysis to enhance the quality and sa
 - Provide insights into housing conditions and code violations across the five boroughs.
 
 ## Key Performance Indicators (KPIs)
-1. **Time Series Analysis of Housing Complaint Types:** <br>
+
+1. **Time Series Analysis of Housing Complaint Types:**  
      Track the volume of each complaint type by month or year to detect any seasonal patterns or emerging issues.
 
-2.**Top 5 Most Common Housing Complaints and their Average Response Time in Days:** <br>  
-     Identify the five most prevalent housing maintenance complaints and calculating their average response time in days. <br>  
-     This analysis offers insights into both the frequency of complaints and the efficiency of response measures.
+2. **Top 5 Most Common Housing Complaints and their Average Response Time in Days:**  
+     Identify the five most prevalent housing maintenance complaints and calculate their average response time in days. This analysis offers insights into both the frequency of complaints and the efficiency of response measures.
 
-3. **Average Time to Close A Violation Across Categories:** <br>
+3. **Average Time to Close A Violation Across Categories:**  
      Calculate the average time when a violation is reported until it's marked as closed. This will give insight into the efficiency of the remediation process.
 
-4. **Top 10 Properties With Complaints:** <br>
+4. **Top 10 Properties With Complaints:**  
      Identify the top 10 buildings/properties that receive the highest frequency of service requests, indicating potential chronic issues.
 
      
