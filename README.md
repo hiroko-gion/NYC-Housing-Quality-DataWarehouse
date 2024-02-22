@@ -105,16 +105,16 @@ Check out the datasets loaded into Google BigQuery:
 
 ## SQL querying for data analysis within BigQuery
 **KPIs:**
-1. **Time Series Analysis of Housing Complaint Types:**
+1. **Time Series Analysis of Housing Complaint Types:** <br>
    <image src="images/Time Series Analysis of Housing Complaint Types.png" height=50%, width=50%>
 
-2. **Top 5 Most Common Housing Complaints and their Average Response Time in Days:**
+2. **Top 5 Most Common Housing Complaints and their Average Response Time in Days:** <br>
    <image src="images/Top 10 Most Common Housing Complaints and their average response time in days.png" height=50%, width=50%>
    
-3. **Average Time to Close A Violation Across Categories:**
+3. **Average Time to Close A Violation Across Categories:** <br>
    <image src="images/Correlation between Response Time and Violation Severity.png" height=50%, width=50%>
    
-4. **Top 10 Properties With Complaints:**
+4. **Top 10 Properties With Complaints:** <br>
    <image src="images/Top 10 properties with the highest frequency of complaints.png" height=50%, width=50%>
    
 ## Data Visualization
