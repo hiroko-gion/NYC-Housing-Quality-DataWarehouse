@@ -14,14 +14,19 @@ The primary objective is to leverage data analysis to enhance the quality and sa
 - Provide insights into housing conditions and code violations across the five boroughs.
 
 ## Key Performance Indicators (KPIs)
-1.  **Time Series Analysis of Housing Complaint Types:** <br>
-    Track the volume of each complaint type by month or year to detect any seasonal patterns or emerging issues.
+1. **Time Series Analysis of Housing Complaint Types:** <br>
+     Track the volume of each complaint type by month or year to detect any seasonal patterns or emerging issues.
 
-2.  **Top 10 Properties With Complaints:** <br>
+2.**Top 5 Most Common Housing Complaints and their Average Response Time in Days:** <br>
+    Identify the five most prevalent housing maintenance complaints and calculating their average response time in days. This analysis offers insights into both the frequency of         
+    complaints and the efficiency of response measures.
+
+3. **Average Time to Close A Violation Across Categories:** <br>
+     Calculate the average time when a violation is reported until it's marked as closed. This will give insight into the efficiency of the remediation process.
+
+4. **Top 10 Properties With Complaints:** <br>
      Identify the top 10 buildings/properties that receive the highest frequency of service requests, indicating potential chronic issues.
 
-3.  **Average Time to Close A Violation Across Categories:** <br>
-     Calculate the average time when a violation is reported until it's marked as closed. This will give insight into the efficiency of the remediation process.
      
 ## Datasets
 
@@ -98,6 +103,20 @@ Check out the datasets loaded into Google BigQuery:
 
 ![BigQuery Datasets](images/BigQuery.png)
 
+## SQL querying for data analysis within BigQuery
+**KPIs:**
+1. **Time Series Analysis of Housing Complaint Types:**
+   <image src="images/Time Series Analysis of Housing Complaint Types.png" height=50%, width=50%>
+
+2. **Top 5 Most Common Housing Complaints and their Average Response Time in Days:**
+   <image src="images/Top 10 Most Common Housing Complaints and their average response time in days.png" height=50%, width=50%>
+   
+3. **Average Time to Close A Violation Across Categories:**
+   <image src="images/Correlation between Response Time and Violation Severity.png" height=50%, width=50%>
+   
+4. **Top 10 Properties With Complaints:**
+   <image src="images/Top 10 properties with the highest frequency of complaints.png" height=50%, width=50%>
+   
 ## Data Visualization
 
 <image src="images/Data_Visualization.png" height=70%, width=70%>
