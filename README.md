@@ -125,3 +125,22 @@ Check out our data visualizations created with Google Looker Studio:
 
 [Link to Data Visualization Dashboard](https://lookerstudio.google.com/u/1/reporting/e2848185-8de1-4b38-bfe7-887f2ac91520/page/xZmjD)
 
+
+## Summary of Results
+
+### Top 5 Most Common Housing Complaints Types:
+1. Heat/Hot water
+2. Unsanitary condition
+3. Paint/Plaster
+4. Plumbing
+5. Door/Window
+
+### Average Response Time for Top 5 Housing Complaints:
+Heat/Hot water complaints have the shortest average response time at 22.04 days, followed by Door/Window, Paint/Plaster, Plumbing, and Unsanitary condition complaints, with response times of 31.06, 31.59, 37.46, and 41.93 days respectively.
+
+### Correlation between Response Time and Violation Severity:
+Class I violations having the shortest average response time of 36.09 days and Class A violations having the longest average response time of 43.69 days.
+
+### Top 10 Properties With Complaints:
+Two properties in Queens (rank #2) and Brooklyn (rank #5) rank among the top 10 properties with the highest number of complaints. The remaining nine properties are located in the Bronx area.
+
