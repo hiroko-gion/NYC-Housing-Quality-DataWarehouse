@@ -18,8 +18,8 @@ The primary objective is to leverage data analysis to enhance the quality and sa
      Track the volume of each complaint type by month or year to detect any seasonal patterns or emerging issues.
 
 2.**Top 5 Most Common Housing Complaints and their Average Response Time in Days:** <br>
-    Identify the five most prevalent housing maintenance complaints and calculating their average response time in days. This analysis offers insights into both the frequency of         
-    complaints and the efficiency of response measures.
+     Identify the five most prevalent housing maintenance complaints and calculating their average response time in days. This analysis offers insights into both the frequency of         
+     complaints and the efficiency of response measures.
 
 3. **Average Time to Close A Violation Across Categories:** <br>
      Calculate the average time when a violation is reported until it's marked as closed. This will give insight into the efficiency of the remediation process.
